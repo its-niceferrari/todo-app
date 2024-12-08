@@ -1,5 +1,11 @@
 # Compiled class file
 *.class
+/build/
+.idea/
+*.iml
+.gradle/
+*.DS_Store
+Thumbs.db
 
 # Log file
 *.log
